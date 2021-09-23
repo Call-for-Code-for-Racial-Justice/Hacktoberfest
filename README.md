@@ -3,7 +3,8 @@ Handbook for Call for Code for Racial Justice Hacktober Projects
 
 ## Run locally
 1. You will need `Node.js` and `npm` installed on your system.
-2. It is recommended to install docsify-cli globally, which helps initializing and previewing the website locally.
+2. Clone the repo.
+3. It is recommended to install docsify-cli globally, which helps initializing and previewing the website locally.
 ```
 npm i docsify-cli -g
 ```
