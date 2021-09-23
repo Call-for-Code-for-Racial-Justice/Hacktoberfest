@@ -1,20 +1,11 @@
 * Welcome
-  * [About Hacktoberfest](README.md)
-  * [About CFCFRJ](cfcfrj.md)
+  * [About Hacktoberfest](welcome/about_hacktoberfest.md)
+  * [About CFCFRJ](welcome/about_cfcfrj.md)
   
-
-* Getting Started
-  * Join our Slack Channel
-  * Join our kickoff
-  * Create Github Account and sign*in; 
-  * Contributing
-  * Office Hours
-  * Other events during Hacktoberfest 
-  * Resources
-    * Open Source Course
-    * Hacktoberfest resources
-
-* Projects:
+* Start here
+  * [Getting Started](getting_started/README.md)
+  
+* Projects
   * [Legit-Info](projects/legit-info.md)
   * [Open Sentencing](projects/open-sentencing.md)
   * [Five Fifths Voter](projects/five-fifths-voter.md)
