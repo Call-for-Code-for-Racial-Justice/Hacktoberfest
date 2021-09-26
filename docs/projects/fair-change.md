@@ -1,23 +1,26 @@
 # Fair Change
 
-## Description
+## Description: 
 
-The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".
+Fair Change is a mobile application that allows upstanders to record police encounters on their mobile device in a safe and secure way
 
-## Getting Started
-Prior to the first meeting, mentors and new Coordinators should be chosen. Any planned changes should be reflected in the relevant documentation and/or presentations. The Coordinators should meet to plan and make sure all administrative affairs are in order.
+## Technology stack
 
-In addition, at least one [mentor training session](mentoring/training) must take place prior to the first meeting.
+- React.js
+- Node.js
+- Expo
 
-## Repo, open issues
+Fair Change has one repository (star the repo!)
+[Fair Change](https://github.com/Call-for-Code-for-Racial-Justice/fairchange): check out the [readme.md](https://github.com/Call-for-Code-for-Racial-Justice/fairchange#readme) to deploy the project
 
+## Open issues
+
+Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice/FairChange/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
 
 ## Slack Channel
 
+Stay in touch in the #racial-justice-fair-change channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team!
 
-
-## Contribution Guidelines
-
-## Code of Conduct
+Check out this [interview](https://www.youtube.com/watch?v=ikOVOeOjXDg&t=300s) by the team to learn more about the project

@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="img/cfc-cover.png" width="400px" alt="Hacktoberfest: Hacking for Racial Justice">
+<img src="img/cfcfrj-logo.png" width="400px" alt="Hacktoberfest: Hacking for Racial Justice">
 
 <hr style='width:40%; border-color:#000000;'>
 <h1 style="">Hacktoberfest: Hacking for Racial Justice</h1>

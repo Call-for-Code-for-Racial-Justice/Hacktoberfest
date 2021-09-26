@@ -1,9 +1,10 @@
 * Welcome
-  * [About Hacktoberfest](welcome/about_hacktoberfest.md)
+  * [About Hacktoberfest](README.md)
   * [About CFCFRJ](welcome/about_cfcfrj.md)
   
 * Start here
   * [Getting Started](getting_started/README.md)
+  * [Contributing](getting_started/contribution.md)
   
 * Projects
   * [Legit-Info](projects/legit-info.md)
