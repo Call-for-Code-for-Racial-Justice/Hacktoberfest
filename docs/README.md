@@ -1,6 +1,6 @@
 # About Hacktoberfest
 
-Great news, Call for Code for Racial Justice is participating in Hacktoberfest 2021! Hacktoberfest is a an epic virtual month-long festival to encourage open source contributions. We welcome you to join us October 1 - October 31st to contribute documentation, code, non-technical assets to our projects and participate in our events for Hacktoberfest.
+Great news, Call for Code for Racial Justice is participating in Hacktoberfest 2021! Hacktoberfest is an epic virtual month-long festival to encourage open source contributions. We welcome you to join us October 1 - October 31st to contribute documentation, code, non-technical assets to our projects and participate in our events for Hacktoberfest.
 
 ## Who should join? 
 
