@@ -1,5 +1,5 @@
 # Hacktoberfest
-Handbook for Call for Code for Racial Justice Hacktober Projects
+[Handbook for Call for Code for Racial Justice Hacktober Projects](https://call-for-code-for-racial-justice.github.io/Hacktoberfest)
 
 ## Run locally
 1. You will need `Node.js` and `npm` installed on your system.
