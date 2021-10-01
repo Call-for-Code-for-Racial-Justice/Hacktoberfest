@@ -21,7 +21,7 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 - Bugs - If you find any bugs: open an issue explaining the bug, describe the steps needed to reproduce the issue. Include the screenshots and OS used.  
   if you are able to fix the bug, assign yourself to the issue,  we will discuss your new issue via Github, once approved submit your PR.
   [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/1) 
-- New Features - If you notice any small features you'd like to add, open a new issue; Comment in the issue to indicate your interest in adding this feature.  We will discuss your new issue via Github. Once approved submit your PR. [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/3) 
+- New Features - If you notice any small features you'd like to add, open a new issue; Comment in the issue to indicate your interest in adding this feature.  We will discuss your new issue via Github. Once approved submit your PR. [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/7) 
 
 ## Hacktoberfest Office Hours:
 
