@@ -1,4 +1,4 @@
- [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://callforcode.org/slack) [![Hacktoberfest](https://img.shields.io/badge/Celebrate-Hacktoberfest-orange.svg)](https://call-for-code-for-racial-justice.github.io/Hacktoberfest/#/?id=main)
+
 
 # Hacktoberfest
 [Handbook for Call for Code for Racial Justice Hacktober Projects](https://call-for-code-for-racial-justice.github.io/Hacktoberfest)
