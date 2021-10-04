@@ -2,7 +2,7 @@
 name: Documentation Template
 about: Use this template to propose changes and updates to documentation
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---
