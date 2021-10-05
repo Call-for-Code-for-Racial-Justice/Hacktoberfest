@@ -25,10 +25,10 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 
 ## Claiming an Open Issue:
 - Issues available for contribution are marked `hacktoberfest`
-- Comment in the issue if you are interested in claiming it
-- If the issue is available, a member of our team will let you know 
-- Once claimed an issue will be markeed `hacktoberfest-claimed`
 - Work only on issues without the `hacktoberfest-claimed` label, or inquire to see if the issue can now be re-claimed
+- Comment in the issue if you are interested in claiming an issue
+- If the issue is available, a member of our team will let you know 
+- Once claimed an issue will be marked `hacktoberfest-claimed`
 
 ## Hacktoberfest Office Hours:
 
