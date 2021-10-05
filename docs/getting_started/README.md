@@ -33,7 +33,8 @@ Stay tuned in the #hacktoberfest Slack channel in our Call for Code workspace (j
 Scheduled Events:
 
 - Wednesday October 6th, 5 pm EST- Call for Code for Racial Justice Hacktoberfest Kickoff ([Join Live or Watch Replay](https://www.crowdcast.io/e/hacktoberfest-kickoff))
-- Thursday October 7th, 5pm EST:  [Add Google/Facebook OAuth to a React App & Deploy to OpenShift](https://www.crowdcast.io/e/appid-openshift)
+- Thursday October 7th, 5 pm EST:  [Add Google/Facebook OAuth to a React App & Deploy to OpenShift](https://www.crowdcast.io/e/appid-openshift)
+- Wenesday October 13th, 5 pm EST: [IBM Code Engine 101 & 201 Workshops](https://www.crowdcast.io/e/ibm-code-engine)
 - Wednesday October 20th, 12 pm EST: [Enable Flawless Logistics with IBM Code Engine x SiB Solutions](http://%20%20https//www.crowdcast.io/e/ibm-ce-sib)
   
 Stay tuned for updates.
