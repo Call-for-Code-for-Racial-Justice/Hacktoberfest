@@ -23,6 +23,13 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
   [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/1) 
 - New Features - If you notice any small features you'd like to add, open a new issue; Comment in the issue to indicate your interest in adding this feature.  We will discuss your new issue via Github. Once approved submit your PR. [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/7) 
 
+## Claiming an Open Issue:
+- Issues available for contribution are marked `hacktoberfest`
+- Comment in the issue if you are interested in claiming it
+- If the issue is available, a member of our team will let you know 
+- Once claimed an issue will be markeed `hacktoberfest-claimed`
+- Work only on issues without the `hacktoberfest-claimed` label, or inquire to see if the issue can now be re-claimed
+
 ## Hacktoberfest Office Hours:
 
 We will host office hours where you can get help onboarding to these projects, share your progress, get status updates on PRs. 
@@ -34,7 +41,7 @@ Scheduled Events:
 
 - Wednesday October 6th, 5 pm EST- Call for Code for Racial Justice Hacktoberfest Kickoff ([Join Live or Watch Replay](https://www.crowdcast.io/e/hacktoberfest-kickoff))
 - Thursday October 7th, 5 pm EST:  [Add Google/Facebook OAuth to a React App & Deploy to OpenShift](https://www.crowdcast.io/e/appid-openshift)
-- Wenesday October 13th, 5 pm EST: [IBM Code Engine 101 & 201 Workshops](https://www.crowdcast.io/e/ibm-code-engine)
+- Wednesday October 13th, 5 pm EST: [IBM Code Engine 101 & 201 Workshops](https://www.crowdcast.io/e/ibm-code-engine)
 - Wednesday October 20th, 12 pm EST: [Enable Flawless Logistics with IBM Code Engine x SiB Solutions](http://%20%20https//www.crowdcast.io/e/ibm-ce-sib)
   
 Stay tuned for updates.
