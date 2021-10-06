@@ -14,4 +14,4 @@
   * [Truth Loop](projects/truth-loop.md)
   * [Fair Change](projects/fair-change.md)
   * [IARS](projects/iars.md)
-  * [Call for Code]([projects/Call-for-Code-Projects.md)
+  * [Call for Code](projects/Call-for-Code-Projects.md)
