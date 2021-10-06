@@ -13,6 +13,10 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 
 [Star the repositories](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) of the projects you are interested in.
 
+## Kickoff
+- Watch our [Hacktoberfest kickoff replay](https://www.crowdcast.io/e/hacktoberfest-kickoff).
+- Check out our [slides](https://www.canva.com/design/DAEr4C3m2Xo/Xykx1BID1EjgpfLs79fxjA/view).
+
 ## Ways to participate:
   *_You can still contribute if you are not technical. Check out the `non-technical` label in the issues._*
   
