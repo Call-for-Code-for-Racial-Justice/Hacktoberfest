@@ -1,4 +1,4 @@
-# Call for Code Open Source projects 
+# Call for Code Open Source projects
 
 ## Description: 
 
