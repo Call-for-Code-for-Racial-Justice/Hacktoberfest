@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues"
   },
-  "homepage": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest#readme"
+  "homepage": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
 }
