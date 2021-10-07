@@ -7,7 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "docsify serve docs"
+    "start": "docsify serve docs",
+    "prettier": "prettier --check .",
+    "prettier-fix": "prettier --check --write ."
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
   },
   "homepage": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest#readme",
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^4.4.3",
+    "prettier": "^2.4.1"
   }
 }
