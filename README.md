@@ -19,17 +19,27 @@
 
 2. It is recommended to install docsify-cli globally, which helps initializing and previewing the website locally.
     ```
-    npm i docsify-cli -g
+    npm install docsify-cli -g
     ```
 
-    You can also use docsify without installing it globally, later on, with `npx docsify <command>`.
+    **Optional 1**: if you prefer to install `docsify` locally.
+
+    ```
+    npm install
+    ```
+
+    **Optional 2**: you can also use docsify without installing the package, later on, with `npx docsify <command>`.
 
 3. Preview the site
 
     ```
-    docsify serve docs
+    npm start
     ```
 
-    Without docsify globally installed, use `npx docsify serve docs`.
+    **Optional 1**: without docsify globally installed, use the following command
+    
+    ```
+    npx docsify serve docs
+    ```
 
 4. You can preview your site in your browser on `http://localhost:3000`
