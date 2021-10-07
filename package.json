@@ -1,0 +1,25 @@
+{
+  "name": "hacktoberfest",
+  "version": "1.0.0",
+  "description": "Handbook for Call for Code for Racial Justice Hacktober Projects",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues"
+  },
+  "homepage": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
