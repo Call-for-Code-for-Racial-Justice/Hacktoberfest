@@ -40,7 +40,11 @@ _*You can still contribute if you are not technical. Check out the `non-technica
 ## Hacktoberfest Office Hours:
 
 We will host office hours where you can get help onboarding to these projects, share your progress, get status updates on PRs. 
-Stay tuned in the #hacktoberfest Slack channel in our Call for Code workspace (join Slack here) for details
+Stay tuned in the #hacktoberfest Slack channel in our Call for Code workspace (join Slack here) for details.
+Scheduled Office Hours:
+- Wednesday, October 13th, 7 am EST - [Get a reminder here](https://www.crowdcast.io/e/hacktoberfest-call-for), event is in Slack 
+- Saturday, October 23rd, 9 am EST - [Get a reminder here](https://www.crowdcast.io/e/hacktoberfest-react-pair-2), event is in Slack
+- Thursday, October 28th, 10 am GMT+1 - [Get a reminder here](https://www.crowdcast.io/e/hacktoberfest-call-for-2), event is in Slack
 
 ## Sponsored Hacktoberfest Events
 
