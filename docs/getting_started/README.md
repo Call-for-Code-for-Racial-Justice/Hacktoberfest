@@ -15,8 +15,8 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 
 ## Kickoff
 
-- Watch our [Hacktoberfest kickoff replay](https://www.crowdcast.io/e/hacktoberfest-kickoff).
-- Check out our [slides](https://www.canva.com/design/DAEr4C3m2Xo/Xykx1BID1EjgpfLs79fxjA/view).
+- Watch our [Hacktoberfest kickoff replay](https://www.crowdcast.io/e/hacktoberfest-kickoff)
+- Check out our [slides](https://www.canva.com/design/DAEr4C3m2Xo/Xykx1BID1EjgpfLs79fxjA/view)
 
 ## Ways to participate:
 
