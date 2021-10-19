@@ -14,7 +14,7 @@
 
 ## Run locally
 
-1. Clone the repo.
+1. Clone the repo
 
 2. It is recommended to install docsify-cli globally, which helps initializing and previewing the website locally.
 
