@@ -6,4 +6,4 @@ Great news, Call for Code for Racial Justice is participating in Hacktoberfest 2
 
 We welcome both technical and non-technical contributors! Whether you're learning how to code, an expert coder, a designer, we look forward to your contribution!  Check out our projects below to see how you can get involved.
 
-See the official DigitalOcean [Hacktoberfest](https://hacktoberfest.digitalocean.com/resources/participation) page on details to track your work and qualify for swag.
+See the official DigitalOcean [Hacktoberfest](https://hacktoberfest.digitalocean.com/resources/participation) page on details to track your work and qualify for swag
