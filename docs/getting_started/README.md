@@ -1,30 +1,5 @@
 # Getting Started
 
-## Pre-requisites & requirements
-- This cohort engagement requires you to use your **personal email address and personal device** for all activities
-- Join our Slack Channel (Link)
-- Register for the cohort here (Link)
-
-
-## Projects Overview and Expectations
-Projects Overview, Purpose, Expectations: Join Playbacks and deliverables
-We have 3 Call for Code for Racial Justice Solutions available for contribution.
-- TakeTwo
-- Legit-Info
-- Open Sentencing
-Across these projects there are opportunities to contribute across:
-
-
-## Weekly Meetings
-
-
-## Working with your team
-- Team Assignments
-
-## Technical and Non-Technical Contribution
-
-
-
 ## Join our Slack Channel:
 
 Join our Call for Code for Racial Justice Community on Slack to engage more with these projects & our community. You can meet the teams, join us for office hours, ask questions, and learn about events and happenings for Hacktoberfest and beyond.
@@ -46,6 +21,13 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 ## Ways to participate:
 
 _*You can still contribute if you are not technical. Check out the `non-technical` label in the issues.*_
+
+- Existing Issues: You can check out existing issues  (see the projects section below). Comment in the issue to indicate your interest, and submit your PR. We've added the hacktoberfest label to save you some time.
+- Documentation Updates - If you notice any errors in documentation, feel free to open an issue explaining the error, include screenshots and recommended solutions. Comment in the issue to indicate your interest in updating the documentation, we will discuss your new issue via Github. [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/2)
+- Bugs - If you find any bugs: open an issue explaining the bug, describe the steps needed to reproduce the issue. Include the screenshots and OS used.  
+  if you are able to fix the bug, assign yourself to the issue,  we will discuss your new issue via Github, once approved submit your PR.
+  [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/1)
+- New Features - If you notice any small features you'd like to add, open a new issue; Comment in the issue to indicate your interest in adding this feature.  We will discuss your new issue via Github. Once approved submit your PR. [See here for more information.](https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/7)
 
 ## Claiming an Open Issue:
 
