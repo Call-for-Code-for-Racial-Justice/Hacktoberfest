@@ -13,10 +13,11 @@ You'll need to create an account Github.com and/or sign-in to contribute to our 
 
 [Star the repositories](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) of the projects you are interested in.
 
-## Kickoff
+## Kickoff & Demo Day
 
 - Watch our [Hacktoberfest kickoff replay](https://www.crowdcast.io/e/hacktoberfest-kickoff).
 - Check out our [slides](https://www.canva.com/design/DAEr4C3m2Xo/Xykx1BID1EjgpfLs79fxjA/view).
+- Join our end of [Hacktoberfest Demo Day](https://www.crowdcast.io/e/hacktoberfest-demo-day/) October 29th
 
 ## Ways to participate:
 
